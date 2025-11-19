@@ -35,148 +35,96 @@
 
 ---
 
-## About Me <a name="about-me"></a>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&width=600&lines=Full+Stack+Developer+%7C+React+%26+MERN+Stack+%7C+Problem+Solver" alt="Typing Banner"/>
-</p>
+## About Me 🌟
 
-- Passionate about building modern web applications  
-- Focused on **React, MERN Stack, Next.js, and responsive UI/UX**  
-- Enjoys **learning new technologies and solving real-world problems**
-
----
-
-## Skills <a name="skills"></a>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" width="40"/> 
-  <img src="https://img.icons8.com/color/48/typescript.png" title="TypeScript" width="40"/> 
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React" width="40"/> 
-  <img src="https://img.icons8.com/color/48/nextjs.png" title="Next.js" width="40"/> 
-  <img src="https://img.icons8.com/color/48/redux.png" title="Redux" width="40"/> 
-</p>
+- 🌱 Currently learning: Prisma
+- 💼 Working as a Senior Web Instructor at Programming Hero
+- 📧 Reach me at: ismailjosim@yahoo.com
+- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://ismailjosim.netlify.app)
+- 💻 Main languages: JavaScript, C, C++, Python
+- 🚀 Open to collaborating on frontend projects and MERN stack applications
 
 ---
 
-## Core Technologies <a name="core-technologies"></a>
-- JavaScript (ES6+) / TypeScript  
-- React / Next.js  
-- Node.js / Express.js  
-- MongoDB / Firebase  
-- REST APIs / JSON  
+## Skills 🛠️
+
+### Core Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Development & Build Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+### Styling & UI Tools
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-2563EB?style=flat-square)
+![React Flowbite](https://img.shields.io/badge/React_Flowbite-2563EB?style=flat-square)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-2563EB?style=flat-square)
+
+### JavaScript Frameworks & State Management
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square)
+
+### Responsive Design
+![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat-square)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat-square)
+![DevTools](https://img.shields.io/badge/DevTools-F0DB4F?style=flat-square)
+
+### Data & API Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![bcrypt](https://img.shields.io/badge/bcrypt-339933?style=flat-square)
+![CORS](https://img.shields.io/badge/CORS-FFCC00?style=flat-square)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-B22222?style=flat-square)
+
+### Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Development & Build Tools <a name="development-tools"></a>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="40"/> 
-  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub" width="40"/> 
-  <img src="https://img.icons8.com/color/48/npm.png" title="NPM" width="40"/> 
-  <img src="https://img.icons8.com/color/48/webpack.png" title="Webpack" width="40"/> 
-  <img src="https://img.icons8.com/color/48/visual-studio.png" title="VSCode" width="40"/> 
-  <img src="https://img.icons8.com/color/48/postman-api.png" title="Postman" width="40"/> 
-</p>
+## Connect with Me 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)
+[![GitHub](https://img.shields.io/badge/GitHub-Faruk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FarukReactDev)
+[![Discord](https://img.shields.io/badge/Discord-Faruk-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Faruk-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Faruk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+[![X](https://img.shields.io/badge/X-Faruk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
 
 ---
 
-## Styling & UI Tools <a name="styling-ui"></a>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS" width="40"/> 
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5" width="40"/> 
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3" width="40"/> 
-</p>
+## GitHub Stats 📊
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
 
----
+## GitHub Streak 🔥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB)
 
-## JavaScript Frameworks & State Management <a name="js-frameworks"></a>
-- React.js (Hooks, Context API)  
-- Next.js  
-- Redux / Redux Toolkit  
-
----
-
-## Responsive Design <a name="responsive-design"></a>
-- Mobile-first design  
-- Flexbox & CSS Grid  
-- Tailwind CSS responsive utilities  
-
----
-
-## Data & API Tools <a name="data-api-tools"></a>
-- REST APIs  
-- JSON & Axios  
-- Firebase (Realtime DB / Auth)  
-
----
-
-## Backend Technologies <a name="backend"></a>
-- Node.js / Express.js  
-- RESTful API design  
-- Authentication & Authorization  
-
----
-
-## Database <a name="database"></a>
-- MongoDB (Mongoose ODM)  
-- Firebase Realtime Database / Firestore  
-
----
-
-## Version Control & Collaboration <a name="version-control"></a>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/git.png" title="Git" width="40"/> 
-  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub" width="40"/> 
-  <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="40"/>
-</p>
-
-- Git / GitHub workflows (branches, PRs, merge)  
-- Collaboration with teams using GitHub Projects / Trello  
-
----
-
-## Projects <a name="projects"></a>
-<p align="center">
-  <details>
-  <summary><strong>➡️ View Projects Carousel</strong></summary>
-  <br>
-
-  <div align="center" style="display: flex; overflow-x: auto; gap: 20px; scroll-behavior: smooth; padding: 10px;">
-    
-    <a href="https://your-demo-link.com" title="E-commerce App" target="_blank">
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="E-commerce App GIF"/>
-      <p align="center"><strong>E-commerce App</strong><br/>React, Node.js, MongoDB</p>
-    </a>
-
-    <a href="https://your-demo-link.com" title="Portfolio Dashboard" target="_blank">
-      <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="250" alt="Portfolio Dashboard GIF"/>
-      <p align="center"><strong>Portfolio Dashboard</strong><br/>React, Express</p>
-    </a>
-
-    <a href="https://your-demo-link.com" title="Blogging Platform" target="_blank">
-      <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="250" alt="Blogging Platform GIF"/>
-      <p align="center"><strong>Blogging Platform</strong><br/>MERN Stack</p>
-    </a>
-
-    <a href="https://your-demo-link.com" title="Dashboard Analytics" target="_blank">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Dashboard Analytics GIF"/>
-      <p align="center"><strong>Dashboard Analytics</strong><br/>React, Chart.js</p>
-    </a>
-
-  </div>
-  <br>
-  </details>
-</p>
-
-> **Tip:** Scroll horizontally to view projects. Hover over each project to see the GIF preview.
-
----
-
-## Connect with Me <a name="contact"></a>
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)  
-  [![Gmail](https://img.shields.io/badge/Gmail-Faruk-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faruk@example.com)
-</p>
-
----
 
 ## GitHub Stats <a name="github-stats"></a>
 <p align="center">

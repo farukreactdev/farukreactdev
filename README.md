@@ -90,9 +90,10 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
----
--⚡ Fun Facts About Me
-## Fun Facts <a name="Fun-Factse"></a>
+
+
+## Fun Facts <a name="Fun-Factse"></a> 
+- 🌱 Currently learning: Advanced Full-Stack & Cloud
 -🌙 I enjoy coding late at night
 -☕ A single cup of tea boosts my productivity
 -📚 I learn something new every day

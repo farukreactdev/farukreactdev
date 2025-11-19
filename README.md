@@ -60,16 +60,25 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&width=600&lines=Full+Stack+Developer+%7C+React+%26+MERN+Stack+%7C+Problem+Solver" alt="Typing Banner"/>
 </p>
 
-- Passionate about building modern web applications  
-- Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX 
-- Enjoys learning new technologies and solving real-world problems
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 💼 Working as a Senior Web Instructor at Programming Hero
-- 📧 Reach me at: farukx1122@gmail.com
-- 🌐 Portfolio: [https://glowing-mermaid-67bfa9.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
-- 💻 Main languages: JavaScript, C, C++, Python
-- 🚀 Open to collaborating on frontend projects and MERN stack applications
+🚀 Passionate about building modern web applications
 
+⚛️ Focused on React.js, Node.js, Express.js & MongoDB
+
+🎨 Dedicated to creating responsive UI/UX
+
+🧠 Enjoys learning new technologies & solving real-world problems
+
+🌱 Currently learning: Advanced Full-Stack & Cloud
+
+👨‍🏫 Working as a Senior Web Instructor at Programming Hero
+
+📧 Reach me at: farukx1122@gmail.com
+
+🌐 Portfolio: glowing-mermaid-67bfa9.netlify.app
+
+💻 Main languages: Java, JavaScript, C, C++, Python
+
+🤝 Open to collaborating on frontend projects & MERN stack applications
 
 
 ## Skills 🛠️

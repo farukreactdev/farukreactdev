@@ -10,7 +10,7 @@ I build full-stack web applications using React.js, Typescript, Redux, Tailwind,
 Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
 
 <!-- GIF -->
-[<img src="/mnt/data/3caa41c2-e1ce-4387-b1f6-ebd52d156cd8.gif" />](https://i.ibb.co.com/rfpdJCzG/Blue-Modern-Technology-Presentation.png)
+[<img src="/mnt/data/84d4547c-f1df-447d-b740-d957533ee100.gif" alt="Faruk React Dev GIF" />](https://i.ibb.co.com/rfpdJCzG/Blue-Modern-Technology-Presentation.png)
 
 <!-- Full-width GIF Banner -->
 <p align="center">
@@ -23,8 +23,8 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
   </span>
 </h1>
 
-Contact & Social
-Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selikhov Telegram: @idimetrix Website: dmitrii-selikhov.vercel.app
+Contact & Social  
+Email: selikhov.dmitrey@gmail.com | X (Twitter): @idimetrix | LinkedIn: Dmitry Selikhov | Telegram: @idimetrix | Website: dmitrii-selikhov.vercel.app
 
 <p align="center">
   React & MERN Full Stack Developer | Building Modern Web Apps
@@ -60,28 +60,25 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&width=600&lines=Full+Stack+Developer+%7C+React+%26+MERN+Stack+%7C+Problem+Solver" alt="Typing Banner"/>
 </p>
 
-- 🚀 Passionate about building modern web applications
-- ⚛️ Focused on React.js, Node.js, Express.js & MongoDB
-- 🎨 Dedicated to creating responsive UI/UX
-- 🧠 Enjoys learning new technologies & solving real-world problems
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 👨‍🏫 Working as a Senior Web Instructor at Programming Hero
-- 📧 Reach me at: farukx1122@gmail.com
-- 🌐 Portfolio: glowing-mermaid-67bfa9.netlify.app
-- 💻 Main languages: Java, JavaScript, C, C++, Python
-- 🤝 Open to collaborating on frontend projects & MERN stack applications
+- 🚀 Passionate about building modern web applications  
+- ⚛️ Focused on React.js, Node.js, Express.js & MongoDB  
+- 🎨 Dedicated to creating responsive UI/UX  
+- 🧠 Enjoys learning new technologies & solving real-world problems  
+- 🌱 Currently learning: Advanced Full-Stack & Cloud  
+- 👨‍🏫 Working as a Senior Web Instructor at Programming Hero  
+- 📧 Reach me at: farukx1122@gmail.com  
+- 🌐 Portfolio: glowing-mermaid-67bfa9.netlify.app  
+- 💻 Main languages: Java, JavaScript, C, C++, Python  
+- 🤝 Open to collaborating on frontend projects & MERN stack applications  
 
-
-
-⚡ Fun Facts About Me
-
--🌙 I enjoy coding late at night
--☕ A single cup of tea boosts my productivity
--📚 I learn something new every day
--🎧 Music + Coding = My perfect workflow
--🛠️ I love exploring new programming tools and frameworks
--☁️ I'm currently diving deeper into cloud-native architecture
--📚 In my free time, I read tech articles and contribute to open-source
+⚡ Fun Facts About Me  
+- 🌙 I enjoy coding late at night  
+- ☕ A single cup of tea boosts my productivity  
+- 📚 I learn something new every day  
+- 🎧 Music + Coding = My perfect workflow  
+- 🛠️ I love exploring new programming tools and frameworks  
+- ☁️ I'm currently diving deeper into cloud-native architecture  
+- 📚 In my free time, I read tech articles and contribute to open-source  
 
 ## Skills 🛠️
 
@@ -156,6 +153,10 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
 
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
+
+## 🐍 Contribution Snake
+![Contribution Snake](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg)
+
 
  
 

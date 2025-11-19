@@ -6,54 +6,44 @@ I love building **modern, responsive, and scalable web applications**.
 ---
 
 ### 🔭 I’m currently working on
-- A **React + Node.js e-commerce platform**  
-- Building my **portfolio of full-stack projects** with clean architecture  
+- **E-commerce App** built with React, Node.js, and MongoDB  
+- Personal **Portfolio & Dashboard Projects** showcasing MERN stack skills  
 
 ### 🌱 I’m currently learning
-- Advanced **React Hooks & Context API**  
-- **Next.js** for SSR & SSG  
-- **TypeScript** for type safety in full-stack apps  
+- Advanced **React Hooks, Context API & Redux**  
+- **Next.js** and **TypeScript** for scalable apps  
+- **GraphQL** for optimized APIs  
 
 ### 👯 I’m looking to collaborate on
-- Open-source **React & MERN stack projects**  
-- Real-world **web applications**  
-- Projects that **help small businesses digitally**  
+- Open-source **React + MERN stack projects**  
+- Projects that help **small businesses grow digitally**  
 
 ### 🤔 I’m looking for help with
-- **Performance optimization** in large React apps  
-- Best practices for **React + Node.js integration**  
+- Optimizing **React performance** in large applications  
+- Best practices for **full-stack architecture & deployment**  
 
 ### 💬 Ask me about
-- **React**, **JavaScript**, **Node.js**, **Express**, **MongoDB**, **REST APIs**, **MERN stack**  
+- **React**, **Node.js**, **Express**, **MongoDB**, **MERN stack**, **REST APIs**, **TypeScript**  
 
 ### 📫 How to reach me
-- Email: **faruk@example.com**  
-- LinkedIn: [linkedin.com/in/faruk](https://www.linkedin.com/in/faruk)  
-- GitHub: [github.com/FarukReactDev](https://github.com/FarukReactDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)  
+[![Gmail](https://img.shields.io/badge/Gmail-Faruk-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faruk@example.com)  
 
 ### 😄 Pronouns
 - He/Him  
 
 ### ⚡ Fun fact
-- I enjoy **coding challenges, learning new frameworks, and automating workflows**  
-- Coffee keeps me **debugging and coding** ☕  
+- Coffee keeps me **coding and debugging** ☕  
+- I enjoy **building projects that solve real problems**  
 
 ---
 
 ### 🛠️ Skills & Technologies
 **Frontend:** React, Redux, HTML5, CSS3, Tailwind CSS, Material UI  
-**Backend:** Node.js, Express.js, REST APIs  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL  
 **Database:** MongoDB, Mongoose  
 **Tools:** Git, GitHub, VSCode, Postman, Netlify, Heroku  
-**Others:** JavaScript (ES6+), TypeScript, MERN stack  
-
----
-
-### 🏆 GitHub Stats
-![Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
-
-### ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukReactDev&layout=compact&theme=radical)
+**Languages:** JavaScript (ES6+), TypeScript  
 
 ---
 
@@ -67,6 +57,23 @@ I love building **modern, responsive, and scalable web applications**.
 
 ---
 
-### 🚀 Let's Connect
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/faruk)](https://www.linkedin.com/in/faruk)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Faruk-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:faruk@example.com)](mailto:faruk@example.com)
+### 🚀 GitHub Stats
+![Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarukReactDev&layout=compact&theme=radical)  
+
+---
+
+### 💻 Projects Showcase
+
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| E-commerce App | React, Node.js, MongoDB | [Live](https://your-demo-link.com) |
+| Portfolio Dashboard | React, Express | [Live](https://your-demo-link.com) |
+| Blogging Platform | MERN Stack | [Live](https://your-demo-link.com) |
+
+---
+
+### ✨ Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)  
+[![Gmail](https://img.shields.io/badge/Gmail-Faruk-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faruk@example.com)  

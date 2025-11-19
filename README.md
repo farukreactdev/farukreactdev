@@ -67,13 +67,7 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
-### ⚡ Fun Facts About Me
-- 🌙 I enjoy coding late at night  
-- ☕ A single cup of tea boosts my productivity  
-- 📚 I learn something new every day  
-- 🎧 Music + Coding = My perfect workflow
 
----
 
 ## Skills 🛠️
 
@@ -149,5 +143,3 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
 
-## 🐍 Contribution Snake
-![snake gif](/mnt/data/d7c64102-5293-46bf-9039-4097894f419a.png)

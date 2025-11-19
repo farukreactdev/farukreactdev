@@ -23,6 +23,9 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
   </span>
 </h1>
 
+Contact & Social
+Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selikhov Telegram: @idimetrix Website: dmitrii-selikhov.vercel.app
+
 <p align="center">
   React & MERN Full Stack Developer | Building Modern Web Apps
 </p>
@@ -142,4 +145,9 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
+
+ Fun Facts About Me
+I love exploring new programming tools and frameworks 🛠️
+I'm currently diving deeper into cloud-native architecture ☁️
+In my free time, I read tech articles and contribute to open-source 📚
 

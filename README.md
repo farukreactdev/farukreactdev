@@ -87,7 +87,7 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 💼 Working as a Senior Web Instructor at Programming Hero
 - 📧 Reach me at: farukx1122@gmail.com
 - 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
-- 💻 Main languages: JavaScript, C, C++, Python
+- 💻 Main languages: Java, JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 ---
 
@@ -102,8 +102,6 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 ## Skills 🛠️
 
 ### Core Technologies
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)

@@ -61,8 +61,8 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
 </p>
 
 - Passionate about building modern web applications  
-- Focused on **React.js, Node.js, Express.js & MongoDB, and responsive UI/UX**  
-- Enjoys **learning new technologies and solving real-world problems**
+- Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX 
+- Enjoys learning new technologies and solving real-world problems
 - 🌱 Currently learning: Advanced Full-Stack & Cloud
 - 💼 Working as a Senior Web Instructor at Programming Hero
 - 📧 Reach me at: farukx1122@gmail.com

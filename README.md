@@ -1,3 +1,25 @@
+
+Hello, nice to see you here! 👋
+I'm Faruk Hossain, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
+
+Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Full-width Animated Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Faruk React Full Stack Banner"/>

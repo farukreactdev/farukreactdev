@@ -74,27 +74,6 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 ---
 
-<!-- ======================= -->
-<!--  NAVIGATION LINKS       -->
-<!-- ======================= -->
-<p align="center">
-  <a href="#about-me">About Me</a> • 
-  <a href="#skills">Skills</a> • 
-  <a href="#core-technologies">Core Technologies</a> • 
-  <a href="#development-tools">Development & Build Tools</a> • 
-  <a href="#styling-ui">Styling & UI Tools</a> • 
-  <a href="#js-frameworks">JavaScript Frameworks & State Management</a> • 
-  <a href="#responsive-design">Responsive Design</a> • 
-  <a href="#data-api-tools">Data & API Tools</a> • 
-  <a href="#backend">Backend Technologies</a> • 
-  <a href="#database">Database</a> • 
-  <a href="#version-control">Version Control & Collaboration</a> • 
-  <a href="#projects">Projects</a> • 
-  <a href="#contact">Connect with Me</a> • 
-  <a href="#github-stats">GitHub Stats</a> • 
-  <a href="#github-streak">GitHub Streak</a>
-</p>
-
 ---
 
 ## About Me <a name="about-me"></a>
@@ -112,6 +91,12 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
+---
+⚡ Fun Facts About Me
+🌙 I enjoy coding late at night
+☕ A single cup of tea boosts my productivity
+📚 I learn something new every day
+🎧 Music + Coding = My perfect workflow
 ---
 
 ## Skills 🛠️

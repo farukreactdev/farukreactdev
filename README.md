@@ -1,9 +1,4 @@
-<!-- ======================= -->
-<!--  CUSTOM MAIN BANNER     -->
-<!-- ======================= -->
-<p align="center">
-  <img src="/mnt/data/8a48ab72-e652-4907-afb2-1660f8759ee5.jpg" width="100%" alt="Faruk MERN Banner" />
-</p>
+
 
 
 <h1 align="center">
@@ -108,12 +103,12 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 </p>
 
 - Passionate about building modern web applications  
-- Focused on **React, MERN Stack, Next.js, and responsive UI/UX**  
+- Focused on **React.js, Node.js, Express.js & MongoDB, and responsive UI/UX**  
 - Enjoys **learning new technologies and solving real-world problems**
-- 🌱 Currently learning: Prisma
+- 🌱 Currently learning: Advanced Full-Stack & Cloud
 - 💼 Working as a Senior Web Instructor at Programming Hero
-- 📧 Reach me at: ismailjosim@yahoo.com
-- 🌐 Portfolio: https://ismailjosim.netlify.app
+- 📧 Reach me at: farukx1122@gmail.com
+- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 

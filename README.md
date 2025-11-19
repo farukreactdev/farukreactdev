@@ -11,7 +11,7 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 
 
-<img src="/mnt/data/3caa41c2-e1ce-4387-b1f6-ebd52d156cd8.gif" />
+[<img src="/mnt/data/3caa41c2-e1ce-4387-b1f6-ebd52d156cd8.gif" />](https://i.ibb.co.com/rfpdJCzG/Blue-Modern-Technology-Presentation.png)
 
 
 
@@ -157,4 +157,4 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
 
 ## GitHub Streak 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB)   I want to use this image in a banner.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB)

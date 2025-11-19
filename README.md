@@ -91,11 +91,11 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
 ---
-⚡ Fun Facts About Me
-🌙 I enjoy coding late at night
-☕ A single cup of tea boosts my productivity
-📚 I learn something new every day
-🎧 Music + Coding = My perfect workflow
+-⚡ Fun Facts About Me
+-🌙 I enjoy coding late at night
+-☕ A single cup of tea boosts my productivity
+-📚 I learn something new every day
+-🎧 Music + Coding = My perfect workflow
 ---
 
 ## Skills 🛠️

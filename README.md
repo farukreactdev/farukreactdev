@@ -73,7 +73,7 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
 
 
 
-##⚡ Fun Facts About Me
+⚡ Fun Facts About Me
 
 -🌙 I enjoy coding late at night
 -☕ A single cup of tea boosts my productivity

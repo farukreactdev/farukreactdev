@@ -205,7 +205,11 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
 
 ## GitHub Streak 🔥
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg) 
+
 
 ---
 
@@ -213,11 +217,5 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 <!-- DARK/LIGHT MODE EXTRA  -->
 <!-- ======================= -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/2077/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/default/0-profile-details.svg" />
-    <img alt="Faruk GitHub Summary" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/default/0-profile-details.svg" />
-  </picture>
-</p>
+
 

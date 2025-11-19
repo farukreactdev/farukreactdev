@@ -72,6 +72,17 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
 - 🤝 Open to collaborating on frontend projects & MERN stack applications
 
 
+
+##⚡ Fun Facts About Me
+
+-🌙 I enjoy coding late at night
+-☕ A single cup of tea boosts my productivity
+-📚 I learn something new every day
+-🎧 Music + Coding = My perfect workflow
+-🛠️ I love exploring new programming tools and frameworks
+-☁️ I'm currently diving deeper into cloud-native architecture
+-📚 In my free time, I read tech articles and contribute to open-source
+
 ## Skills 🛠️
 
 ### Core Technologies
@@ -146,8 +157,6 @@ Email: selikhov.dmitrey@gmail.com X (Twitter): @idimetrix LinkedIn: Dmitry Selik
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
 
- Fun Facts About Me
-I love exploring new programming tools and frameworks 🛠️
-I'm currently diving deeper into cloud-native architecture ☁️
-In my free time, I read tech articles and contribute to open-source 📚
+ 
+
 

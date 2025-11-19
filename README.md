@@ -1,30 +1,33 @@
+<!-- ======================= -->
+<!--  CUSTOM MAIN BANNER     -->
+<!-- ======================= -->
+<p align="center">
+  <img src="/mnt/data/8a48ab72-e652-4907-afb2-1660f8759ee5.jpg" width="100%" alt="Faruk MERN Banner" />
+</p>
+
+
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
     Hello, nice to see you here! 👋
   </span>
 </h1>
-I'm Faruk Hossain, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh. I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
+
+I'm Faruk Hossain, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh.  
+I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 
 Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
 
 
-
-
-
+<!-- ======================= -->
+<!--  GIF YOU PROVIDED       -->
+<!-- ======================= -->
 [<img src="/mnt/data/3caa41c2-e1ce-4387-b1f6-ebd52d156cd8.gif" />](https://i.ibb.co.com/rfpdJCzG/Blue-Modern-Technology-Presentation.png)
 
 
 
-
-
-
-
-
-
-
-
-
-<!-- Full-width Animated Banner -->
+<!-- ======================= -->
+<!--  FULL WIDTH GIF BANNER  -->
+<!-- ======================= -->
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Faruk React Full Stack Banner"/>
 </p> 
@@ -36,13 +39,49 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
     Hi, I'm Faruk 👋
   </span>
 </h1>
+
 <p align="center">
   React & MERN Full Stack Developer | Building Modern Web Apps
 </p>
 
 ---
 
-<!-- Navigation Links -->
+<!-- ======================= -->
+<!-- GLASSMORPHISM HERO ADD -->
+<!-- ======================= -->
+<p align="center">
+  <img src="/mnt/data/8a48ab72-e652-4907-afb2-1660f8759ee5.jpg" width="100%" style="border-radius:16px;" />
+</p>
+
+<div align="center">
+  <div style="
+      backdrop-filter: blur(12px);
+      background: rgba(255,255,255,0.08);
+      border-radius: 18px;
+      padding: 18px 30px;
+      width: fit-content;
+      border: 1px solid rgba(255,255,255,0.15);
+  ">
+    <h2 style="color:#61DAFB; margin:0;">
+      MERN Stack Developer • React.js • Node.js • MongoDB
+    </h2>
+  </div>
+</div>
+
+---
+
+<!-- ======================= -->
+<!--  ANIMATED TYPING ADD    -->
+<!-- ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+High+Performance;Let's+Build+Something+Awesome+Together!">
+</p>
+
+---
+
+<!-- ======================= -->
+<!--  NAVIGATION LINKS       -->
+<!-- ======================= -->
 <p align="center">
   <a href="#about-me">About Me</a> • 
   <a href="#skills">Skills</a> • 
@@ -74,7 +113,7 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 - 🌱 Currently learning: Prisma
 - 💼 Working as a Senior Web Instructor at Programming Hero
 - 📧 Reach me at: ismailjosim@yahoo.com
-- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://ismailjosim.netlify.app)
+- 🌐 Portfolio: https://ismailjosim.netlify.app
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
@@ -143,6 +182,18 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 ---
 
+<!-- ======================= -->
+<!--  TECH STACK ICON ROW    -->
+<!-- ======================= -->
+## 🚀 Tech Stack (Icon Focused)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,materialui,figma" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,vite,npm,yarn" />
+</p>
+
+---
+
 ## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FarukReactDev)
@@ -158,3 +209,18 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB)
+
+---
+
+<!-- ======================= -->
+<!-- DARK/LIGHT MODE EXTRA  -->
+<!-- ======================= -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/2077/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/default/0-profile-details.svg" />
+    <img alt="Faruk GitHub Summary" src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-summary-card-output/default/0-profile-details.svg" />
+  </picture>
+</p>
+

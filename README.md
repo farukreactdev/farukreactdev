@@ -93,11 +93,11 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 
 ## Fun Facts <a name="Fun-Factse"></a> 
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
--🌙 I enjoy coding late at night
--☕ A single cup of tea boosts my productivity
--📚 I learn something new every day
--🎧 Music + Coding = My perfect workflow
+- 🌙 I enjoy coding late at night
+- ☕ A single cup of tea boosts my productivity
+- 📚 I learn something new every day
+- 🎧 Music + Coding = My perfect workflow
+
 ---
 
 ## Skills 🛠️

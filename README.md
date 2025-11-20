@@ -27,7 +27,7 @@
 </h1>
 
 <p>
-A passionate Frontend Developer & MERN Stack Developer, focused on creating fast, scalable, and modern web applications
+Passionate about building Frontend & MERN Full Stack Developer, focused on creating fast, scalable, and modern web applications
 </p>
 
 
@@ -42,7 +42,7 @@ A passionate Frontend Developer & MERN Stack Developer, focused on creating fast
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&width=600&lines=Full+Stack+Developer+%7C+React+%26+MERN+Stack+%7C+Problem+Solver" alt="Typing Banner"/>
 </p>
 
-- Passionate about building modern web applications  
+
 - Focused on **React.js, Node.js, Express.js & MongoDB, and responsive UI/UX**  
 - Enjoys **learning new technologies and solving real-world problems**
 - 🌱 Currently learning: Advanced Full-Stack & Cloud

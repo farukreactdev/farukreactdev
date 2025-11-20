@@ -1,6 +1,10 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+<<<<<<< HEAD
     Hello, nice to see you here! GET MY MY FREE TECHNICAL CONSULTATION 👋
+=======
+    Hello, nice to see you here! GET MY MY FREE TECHNICAL CONSULTATION !
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
   </span>
 </h1>
 
@@ -16,6 +20,10 @@
 <!--  GIF YOU PROVIDED       -->
 <!-- ======================= -->
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
     Hi, I'm Faruk 👋
@@ -23,26 +31,48 @@
 </h1>
 
 <p>
+<<<<<<< HEAD
 Passionate about building Frontend & MERN Full Stack Developer, focused on creating fast, scalable, and modern web applications
  </p>
 
+=======
+Passionate About building Frontend & MERN Full Stack Developer, Focused on creating fast, Scalable, and modern web applications
+ </p>
+
+
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+High+Performance;Let's+Build+Something+Awesome+Together!">
 </p>
 
 ## About Me <a name="about-me"></a>
 
+<<<<<<< HEAD
 - 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX
 - 💼Enjoys Learning new technologies and solving real-world problems
 - 💻 Main languages: Java, JavaScript, C, C++, Python
 
+=======
+- 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
+- 💼Enjoys Learning new technologies and solving real-world problems
+- 💻 Main languages: Java, JavaScript, C, C++, Python
+
+
+
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ## Fun Facts <a name="fun-facts"></a>
 
 - 🌙 I love exploring new programming tools and frameworks
 - 🌱 Currently Learning: Advanced Full-Stack & Cloud
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
+<<<<<<< HEAD
 ## Get in Touch <a name="get-in-touch"></a>
+=======
+
+
+## Get in Touch <a name="get-in-touch"></a> 
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 
 <p align="">
 
@@ -63,8 +93,15 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
   </a>
 </p>
 
+<<<<<<< HEAD
 ## Skills 🛠️
 
+=======
+
+## Skills 🛠️
+
+
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ### Core Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -73,8 +110,13 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+<<<<<<< HEAD
 ### Development & Build Tools
 
+=======
+        
+### Development & Build Tools
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -82,9 +124,18 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+<<<<<<< HEAD
 
 ### Styling & UI Tools
 
+=======
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-7B3FE4?style=flat-square&logo=pixso&logoColor=white)
+
+
+
+### Styling & UI Tools
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
@@ -95,26 +146,38 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-2563EB?style=flat-square)
 
 ### JavaScript Frameworks & State Management
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square)
 
 ### Responsive Design
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat-square)
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat-square)
 ![DevTools](https://img.shields.io/badge/DevTools-F0DB4F?style=flat-square)
 
 ### Data & API Tools
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
 
 ### Backend Technologies
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
@@ -122,12 +185,16 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![CORS](https://img.shields.io/badge/CORS-FFCC00?style=flat-square)
 
 ### Database
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-B22222?style=flat-square)
 
 ### Version Control & Collaboration
+<<<<<<< HEAD
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -136,6 +203,16 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 <!--  TECH STACK ICON ROW    -->
 <!-- ======================= -->
 
+=======
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+<!-- ======================= -->
+<!--  TECH STACK ICON ROW    -->
+<!-- ======================= -->
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 ## 🚀 Tech Stack (Icon Focused)
 
 <p align="">
@@ -143,8 +220,14 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,vite,npm,yarn" />
 </p>
 
+<<<<<<< HEAD
 ## Connect with Me 🌐
 
+=======
+
+
+## Connect with Me 🌐
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)
 [![GitHub](https://img.shields.io/badge/GitHub-Faruk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FarukReactDev)
 [![Discord](https://img.shields.io/badge/Discord-Faruk-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
@@ -152,6 +235,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 [![Instagram](https://img.shields.io/badge/Instagram-Faruk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 [![X](https://img.shields.io/badge/X-Faruk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
 
+<<<<<<< HEAD
 ## GitHub Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
@@ -163,6 +247,24 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg)
+=======
+
+
+## GitHub Stats 📊
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
+
+
+
+## GitHub Streak 🔥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=black-ice&border_radius=12)
+
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg) 
+
+
+
+>>>>>>> 6e69a4224c9812c365914bad2713c6725ff9439c
 
 <!-- ======================= -->
 <!-- DARK/LIGHT MODE EXTRA  -->

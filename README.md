@@ -17,9 +17,6 @@
 <!-- ======================= -->
 
 
-
-
-
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
     Hi, I'm Faruk 👋
@@ -35,11 +32,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+High+Performance;Let's+Build+Something+Awesome+Together!">
 </p>
 
-
-
 ## About Me <a name="about-me"></a>
-
-
 
 - Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
 - Enjoys Learning new technologies and solving real-world problems
@@ -48,24 +41,17 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 - 💻 Main languages:Java, JavaScript, C, C++, Python
 
 
-
-
 ## Fun Facts <a name="fun-facts"></a>
 
 - 🌙 I love exploring new programming tools and frameworks
 - 🌱 Currently Learning: Advanced Full-Stack & Cloud
 - 🎧 Music + Coding  My perfect workflow
-- 🚀 Open to collaborating on frontend projects and MERN stack applications
+-🚀 Open to collaborating on frontend projects and MERN stack applications
 
-
-
+## Get in Touch <a name="get-in-touch"></a>
 
 - 📧 Reach me at: farukx1122@gmail.com
 - 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
-
-
-
-
 
 
 ## Skills 🛠️

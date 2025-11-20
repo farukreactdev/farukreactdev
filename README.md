@@ -9,7 +9,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="80%" />
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="60%" />
 </p>
 
 <!-- ======================= -->
@@ -66,7 +66,6 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
       alt="Gmail Button" 
     />
   </a>
-
 </p>
 
 

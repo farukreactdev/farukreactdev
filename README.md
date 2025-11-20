@@ -160,9 +160,17 @@ Passionate about building Frontend & MERN Full Stack Developer, Focused on creat
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=black-ice&border_radius=12)
 
+
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farukreactdev/farukreactdev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/farukreactdev/farukreactdev/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/farukreactdev/farukreactdev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 
 <!-- ======================= -->
 <!-- DARK/LIGHT MODE EXTRA  -->

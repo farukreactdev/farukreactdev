@@ -4,7 +4,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/tPL4Y7dh/cover.jpg" width="100%" />
+  <img src="[https://i.ibb.co.com/tPL4Y7dh/cover.jpg" width="100%"](https://i.ibb.co.com/rKnftYWQ/cover1.jpg) />
 </p>
 
 <h1 align="center">Hi, I'm Faruk 👋</h1>

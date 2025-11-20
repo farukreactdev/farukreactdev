@@ -23,7 +23,7 @@
 </h1>
 
 <p>
-Passionate about building Frontend & MERN Full Stack Developer, Focused on creating fast, Scalable, and modern web applications
+Passionate About Building Frontend & MERN Full Stack Developer, Focused on creating fast, Scalable, and Modern Web Applications
  </p>
 
 <p align="center">

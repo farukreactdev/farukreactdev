@@ -26,6 +26,28 @@
 
 ---
 
+<!-- ======================= -->
+<!-- GLASSMORPHISM HERO ADD -->
+<!-- ======================= -->
+<p align="center">
+  <img src="/mnt/data/8a48ab72-e652-4907-afb2-1660f8759ee5.jpg" width="100%" style="border-radius:16px;" />
+</p>
+
+<div align="center">
+  <div style="
+      backdrop-filter: blur(12px);
+      background: rgba(255,255,255,0.08);
+      border-radius: 18px;
+      padding: 18px 30px;
+      width: fit-content;
+      border: 1px solid rgba(255,255,255,0.15);
+  ">
+    <h2 style="color:#61DAFB; margin:0;">
+      MERN Stack Developer • React.js • Node.js • MongoDB
+    </h2>
+  </div>
+</div>
+
 
 <!-- ======================= -->
 <!--  GIF YOU PROVIDED       -->

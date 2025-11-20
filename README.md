@@ -13,16 +13,16 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 <!--     GITHUB BANNER         -->
 <!-- ========================= -->
 
+
+
+
+<!-- ======================= -->
+<!--  GIF YOU PROVIDED       -->
+<!-- ======================= -->
 <p align="center">
-  <img src="[https://i.ibb.co.com/tPL4Y7dh/cover.jpg" width="100%"](https://i.ibb.co.com/rKnftYWQ/cover1.jpg) />
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="600" />
 </p>
 
-<h1 align="center">Hi, I'm Faruk 👋</h1>
-
-<p align="center">
-  <b>MERN Stack Developer | React.js | Node.js | MongoDB</b>
-</p>
----
 
 
 

@@ -7,7 +7,7 @@
   <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />
 </div>
 
-# Your Name Faruk Hossain
+# Faruk Hossain
 
 <div align="right">
   <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />

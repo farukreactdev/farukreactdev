@@ -9,7 +9,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="100%" />
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="80%" />
 </p>
 
 <!-- ======================= -->
@@ -38,9 +38,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 
 ## About Me <a name="about-me"></a>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=61DAFB&width=600&lines=Full+Stack+Developer+%7C+React+%26+MERN+Stack+%7C+Problem+Solver" alt="Typing Banner"/>
-</p>
+
 
 
 - Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  

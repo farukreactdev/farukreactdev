@@ -45,7 +45,6 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 - 🌙 I love exploring new programming tools and frameworks
 - 🌱 Currently Learning: Advanced Full-Stack & Cloud
-- 🎧 Music + Coding  My perfect workflow
 -🚀 Open to collaborating on frontend projects and MERN stack applications
 
 

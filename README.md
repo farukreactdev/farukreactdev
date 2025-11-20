@@ -56,15 +56,11 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 ## Fun Facts <a name="fun-facts"></a>
 
+- 🌙 I love exploring new programming tools and frameworks
 - 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
+- 🎧 Music + Coding = My perfect workflow
+- 📚 In my free time, I read tech articles and contribute to open-source
 
-🌙 I enjoy coding late at night
-☕ A single cup of tea boosts my productivity
-📚 I learn something new every day
-🎧 Music + Coding = My perfect workflow
 
 
 ## Skills 🛠️

@@ -248,93 +248,11 @@
 
 ---
 
-<!-- ======================= -->
-<!-- DARK/LIGHT MODE EXTRA  -->
-<!-- ======================= -->
 
 
-<div align="right">
-  <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />
-</div>
 
-# Your Name
 
-<div align="right">
-  <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />
-</div>
 
-**CTO, Software Architect, Technical Lead**
-
-📍 **Miami Beach, Florida, United States**
-📍 **Punta Cana, La Altagracia, Dominican Republic**
-✉️ **Email:** [your@email.com](mailto:your@email.com)
-📞 **Phone:** +1 829 957 6440
-
-🌐 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
-🐙 **GitHub:** [https://github.com](https://github.com)
-💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com)
-
----
-
-# **About**
-
-With a **Master's degree in Mathematics and Computer Science** and over **15+ years of professional experience (including MBA)** in both startups and enterprises, I am a technical strategic leader specializing in guiding products from idea to successful launch.
-
-I excel in leading teams of up to **100 members**, fostering high‑performance culture, and driving innovation. I collaborate effectively across engineering, business, and leadership teams.
-
-My expertise spans **AI, ML**, modern frontend frameworks, and backend systems across cloud-native architectures. I am experienced in monolithic, microservices, and serverless environments deployed on **AWS, Azure, and Google Cloud**.
-
-### **Competencies:**
-
-Architecture • Integration Strategy • API Design & Development • UI/UX Engineering • Software Development • Team Leadership • Project Management • Executive Leadership • DevOps • CI/CD • Performance Optimization • Continuous Improvement
-
-### **Stacks:**
-
-MERN • MEAN • LAMP • JAM • MEVN • PERN • ROR • MEEN • ELK • WAMP • XAMPP • TALL • PWA • LEAN • FARM • SERN
-
----
-
-# **Experience**
-
-## CheapHotelsHub.com — **Chief Technology Officer**
-
-**Office | Full‑Time**
-📅 **Aug 2023 – Present**
-
-### **Responsibilities:**
-
-* Define technical strategy and vision
-* Architect system infrastructure & cloud deployments
-* Lead engineering teams and product development lifecycle
-* Oversee SEO, marketing automation & analytics
-* Manage B2B/B2C integrations, payment gateways & identity systems
-* Improve security, CI/CD pipelines & development workflows
-
-### **Technologies:**
-
-React • Next.js • Node.js • Nest.js • Clerk.js • Vercel • AWS • EC2 • S3 • Go • Rust • UI/UX • Prisma • MongoDB • MySQL • PostgreSQL • SQLite • Tailwind • CI/CD • Redis • Docker • Kubernetes • Terraform • Anti‑fraud API • Payment API • tRPC • gRPC • Jira • Kanban • Radix UI • Canva • NPM • TURBO
-
----
-
-# **Education**
-
-**Master's in Computer Science**
-Your University Name
-
----
-
-# **GitHub Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=default)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
-
----
-
-# **Let's Connect**
-
-📩 Email: [your@email.com](mailto:your@email.com)
-🐙 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 
 

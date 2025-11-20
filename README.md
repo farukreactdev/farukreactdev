@@ -34,6 +34,16 @@
 </p>
 
 ---
+<!-- ======================= -->
+<!--  ANIMATED TYPING ADD    -->
+<!-- ======================= -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+    Hi, I'm Faruk 👋
+  </span>
+</h1>
+
+---
 
 <!-- ======================= -->
 <!-- GLASSMORPHISM HERO ADD -->

@@ -49,7 +49,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 ## Get in Touch <a name="get-in-touch"></a> 
 
-<p align="center">
+<p align="">
 
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/faruk" target="_blank" style="margin-right: 8px;">

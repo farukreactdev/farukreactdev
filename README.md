@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-    Hello, nice to see you here! GET MY MY FREE TECHNICAL CONSULTATION 👋
+    Hello, nice to see you here! GET MY MY FREE TECHNICAL CONSULTATION !
   </span>
 </h1>
 

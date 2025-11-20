@@ -36,7 +36,6 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 - Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
 - Enjoys Learning new technologies and solving real-world problems
-- 💼 I'm working as a Freelance Frontend web developer.
 - 💻 Main languages: Java, JavaScript, C, C++, Python
 
 

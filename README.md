@@ -139,7 +139,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 <!-- ======================= -->
 ## 🚀 Tech Stack (Icon Focused)
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,materialui,figma" /><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,vite,npm,yarn" />
 </p>

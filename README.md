@@ -43,8 +43,8 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 </p>
 
 
-- Focused on **React.js, Node.js, Express.js & MongoDB, and responsive UI/UX**  
-- Enjoys **learning new technologies and solving real-world problems**
+- Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
+- Enjoys Learning new technologies and solving real-world problems
 - 🌱 Currently learning: Advanced Full-Stack & Cloud
 - 💼 Working as a Senior Web Instructor at Programming Hero
 - 📧 Reach me at: farukx1122@gmail.com
@@ -57,11 +57,9 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ## Fun Facts <a name="fun-facts"></a>
 
 - 🌙 I love exploring new programming tools and frameworks
-- 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 🎧 Music + Coding = My perfect workflow
+- 🌱 Currently Learning: Advanced Full-Stack & Cloud
+- 🎧 Music + Coding  My perfect workflow
 - 📚 In my free time, I read tech articles and contribute to open-source
-
-
 
 ## Skills 🛠️
 

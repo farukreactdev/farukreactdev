@@ -1,4 +1,41 @@
 
+<!-- ========================= -->
+<!--     GITHUB BANNER         -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://i.ibb.co.com/tPL4Y7dh/cover.jpg" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Faruk 👋</h1>
+
+<p align="center">
+  <b>MERN Stack Developer | React.js | Node.js | MongoDB</b>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- ======================= -->
 <!--  GIF YOU PROVIDED       -->
 <!-- ======================= -->

@@ -1,0 +1,169 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+    Hello, nice to see you here! GET MY MY FREE TECHNICAL CONSULTATION 👋
+  </span>
+</h1>
+
+<!-- ========================= -->
+<!--     GITHUB BANNER         -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="50%" />
+</p>
+
+<!-- ======================= -->
+<!--  GIF YOU PROVIDED       -->
+<!-- ======================= -->
+
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+    Hi, I'm Faruk 👋
+  </span>
+</h1>
+
+<p>
+Passionate about building Frontend & MERN Full Stack Developer, focused on creating fast, scalable, and modern web applications
+ </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+High+Performance;Let's+Build+Something+Awesome+Together!">
+</p>
+
+## About Me <a name="about-me"></a>
+
+- 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX
+- 💼Enjoys Learning new technologies and solving real-world problems
+- 💻 Main languages: Java, JavaScript, C, C++, Python
+
+## Fun Facts <a name="fun-facts"></a>
+
+- 🌙 I love exploring new programming tools and frameworks
+- 🌱 Currently Learning: Advanced Full-Stack & Cloud
+- 🚀 Open to collaborating on frontend projects and MERN stack applications
+
+## Get in Touch <a name="get-in-touch"></a>
+
+<p align="">
+
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/faruk" target="_blank" style="margin-right: 8px;">
+    <img 
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn Button" 
+    />
+  </a>
+
+  <!-- Gmail Button -->
+  <a href="mailto:farukx1122@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail Button" 
+    />
+  </a>
+</p>
+
+## Skills 🛠️
+
+### Core Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Development & Build Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+### Styling & UI Tools
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-2563EB?style=flat-square)
+![React Flowbite](https://img.shields.io/badge/React_Flowbite-2563EB?style=flat-square)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-2563EB?style=flat-square)
+
+### JavaScript Frameworks & State Management
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat-square)
+
+### Responsive Design
+
+![Flexbox](https://img.shields.io/badge/Flexbox-FF69B4?style=flat-square)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat-square)
+![DevTools](https://img.shields.io/badge/DevTools-F0DB4F?style=flat-square)
+
+### Data & API Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+
+### Backend Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![bcrypt](https://img.shields.io/badge/bcrypt-339933?style=flat-square)
+![CORS](https://img.shields.io/badge/CORS-FFCC00?style=flat-square)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-B22222?style=flat-square)
+
+### Version Control & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<!-- ======================= -->
+<!--  TECH STACK ICON ROW    -->
+<!-- ======================= -->
+
+## 🚀 Tech Stack (Icon Focused)
+
+<p align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,bootstrap,materialui,figma" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,vite,npm,yarn" />
+</p>
+
+## Connect with Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)
+[![GitHub](https://img.shields.io/badge/GitHub-Faruk-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/FarukReactDev)
+[![Discord](https://img.shields.io/badge/Discord-Faruk-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Faruk-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Faruk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+[![X](https://img.shields.io/badge/X-Faruk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
+
+## GitHub Stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
+
+## GitHub Streak 🔥
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=black-ice&border_radius=12)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg)
+
+<!-- ======================= -->
+<!-- DARK/LIGHT MODE EXTRA  -->
+<!-- ======================= -->

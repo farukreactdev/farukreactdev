@@ -34,9 +34,10 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 ## About Me <a name="about-me"></a>
 
-- Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
-- Enjoys Learning new technologies and solving real-world problems
+- 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
+- 💼Enjoys Learning new technologies and solving real-world problems
 - 💻 Main languages: Java, JavaScript, C, C++, Python
+
 
 
 ## Fun Facts <a name="fun-facts"></a>

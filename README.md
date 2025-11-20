@@ -18,12 +18,12 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-    Hi, I'm Faruk 👋
+    Hi, I'm Faruk Hossain 👋
   </span>
 </h1>
 
 <p>
-Passionate about building Frontend & MERN Full Stack Developer, focused on creating fast, scalable, and modern web applications
+Passionate about building Frontend & MERN Full Stack Developer, Focused on creating fast, Scalable, and modern web applications
  </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 - 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX
 - 💼Enjoys Learning new technologies and solving real-world problems
-- 💻 Main languages: Java, JavaScript, C, C++, Python
+- 💻Main languages: Java, JavaScript, C, C++, Python
 
 ## Fun Facts <a name="fun-facts"></a>
 

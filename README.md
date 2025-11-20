@@ -25,25 +25,6 @@ Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email B
 
 
 
-
-<!-- ======================= -->
-<!--  GIF YOU PROVIDED       -->
-<!-- ======================= -->
-[<img src="/mnt/data/3caa41c2-e1ce-4387-b1f6-ebd52d156cd8.gif" />](https://i.ibb.co.com/rfpdJCzG/Blue-Modern-Technology-Presentation.png)
-
-
-
-
-
-<!-- ======================= -->
-<!--  FULL WIDTH GIF BANNER  -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%" alt="Faruk React Full Stack Banner"/>
-</p> 
-
-
-
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
     Hi, I'm Faruk 👋

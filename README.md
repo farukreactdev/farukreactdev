@@ -1,13 +1,30 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-    Hello, nice to see you here! 👋
-  </span>
-</h1>
+<!-- ======================= -->
+<!-- DARK/LIGHT MODE EXTRA  -->
+<!-- ======================= -->
 
-I'm Faruk Hossain, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh.  
-I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 
-Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
+<div align="right">
+  <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />
+</div>
+
+# Your Name
+
+<div align="right">
+  <img src="https://your-image-link.com/profile.png" width="180" style="border-radius:12px;" />
+</div>
+
+**CTO, Software Architect, Technical Lead**
+
+📍 **Miami Beach, Florida, United States**
+📍 **Punta Cana, La Altagracia, Dominican Republic**
+✉️ **Email:** [your@email.com](mailto:your@email.com)
+📞 **Phone:** +1 829 957 6440
+
+🌐 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
+🐙 **GitHub:** [https://github.com](https://github.com)
+💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com)
+
+---
 
 
 <!-- ======================= -->

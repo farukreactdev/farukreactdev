@@ -39,6 +39,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 - 🌱 Currently learning: Advanced Full-Stack & Cloud
 - 💼 I'm working as a Freelance Frontend web developer.
 - 💻 Main languages:Java, JavaScript, C, C++, Python
+--
 
 
 ## Fun Facts <a name="fun-facts"></a>
@@ -47,11 +48,14 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 - 🌱 Currently Learning: Advanced Full-Stack & Cloud
 - 🎧 Music + Coding  My perfect workflow
 -🚀 Open to collaborating on frontend projects and MERN stack applications
+--
 
 ## Get in Touch <a name="get-in-touch"></a>
 
 - 📧 Reach me at: farukx1122@gmail.com
 - 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
+
+--
 
 
 ## Skills 🛠️

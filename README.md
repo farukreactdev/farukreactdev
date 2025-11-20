@@ -4,8 +4,6 @@
   </span>
 </h1>
 
-
-
 <!-- ========================= -->
 <!--     GITHUB BANNER         -->
 <!-- ========================= -->
@@ -16,6 +14,8 @@
 <!-- ======================= -->
 <!--  GIF YOU PROVIDED       -->
 <!-- ======================= -->
+
+
 <p align="center">
   <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="600" />
 </p>
@@ -24,12 +24,13 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
-    I'm Faruk Hossain, MERN stack developer 👨🏽‍💻 from Dhaka, Bangladesh.  
-I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
+    Hi, I'm Faruk Hossain 👋 MERN stack developer
 
-Facebook Badge Twitter Badge Instagram Badge Linkedin Badge Medium Badge Email Badge
+
+
     Hi, I'm Faruk 👋
   </span>
+  I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 </h1>
 
 <p align="center">

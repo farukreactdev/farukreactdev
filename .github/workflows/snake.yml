@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch: # ম্যানুয়ালি বা future schedule
+  workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *" # প্রতি 12 ঘণ্টা
+    - cron: "0 */12 * * *"
 
 jobs:
   build:

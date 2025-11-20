@@ -9,7 +9,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="60%" />
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="50%" />
 </p>
 
 <!-- ======================= -->

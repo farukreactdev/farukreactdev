@@ -8,6 +8,11 @@
 <!--     GITHUB BANNER         -->
 <!-- ========================= -->
 
+<p align="center">
+  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="100%" />
+</p>
+
+
 <!-- ======================= -->
 <!--  GIF YOU PROVIDED       -->
 <!-- ======================= -->

@@ -25,6 +25,10 @@
 💼 **LinkedIn:** [https://linkedin.com](https://linkedin.com)
 
 ---
+[https://raw.githubusercontent.com/yourusername/yourrepo/main/animation.gif](https://i.ibb.co.com/4Q9mgFg/faruk.gif)
+
+
+---
 
 <!-- ======================= -->
 <!-- GLASSMORPHISM HERO ADD -->

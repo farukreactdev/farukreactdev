@@ -52,17 +52,17 @@
 - 💻 Main languages: JavaScript, C, C++, Python
 - 🚀 Open to collaborating on frontend projects and MERN stack applications
 
----
+
 ⚡ Fun Facts About Me
 🌙 I enjoy coding late at night
 ☕ A single cup of tea boosts my productivity
 📚 I learn something new every day
 🎧 Music + Coding = My perfect workflow
----
+
 
 ## Skills 🛠️
 
-### Core Technologies
+
 ### Core Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -123,7 +123,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+
 
 <!-- ======================= -->
 <!--  TECH STACK ICON ROW    -->

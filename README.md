@@ -91,6 +91,8 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Pixso](https://img.shields.io/badge/Pixso-7B3FE4?style=flat-square&logo=pixso&logoColor=white)
+
 
 
 ### Styling & UI Tools

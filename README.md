@@ -25,10 +25,6 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#61DAFB,#0D1117);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
     Hi, I'm Faruk Hossain 👋 MERN stack developer
-
-
-
-    Hi, I'm Faruk 👋
   </span>
   I build full-stack web applications using React.js, Typescript, Redux, Tailwind, Ant Design, Next UI, ShadCn, Firebase, MongoDB, Express and Node.js, with a focus on clean, efficient code and user-friendly experiences. Let's connect!
 </h1>

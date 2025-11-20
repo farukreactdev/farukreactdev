@@ -37,9 +37,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Modern+UI+%7C+High+Performance;Let's+Build+Something+Awesome+Together!">
 </p>
 
----
 
----
 
 ## About Me <a name="about-me"></a>
 <p align="center">

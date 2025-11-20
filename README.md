@@ -28,7 +28,7 @@
 
 <p>
 Passionate about building Frontend & MERN Full Stack Developer, focused on creating fast, scalable, and modern web applications
-</p>
+ </p>
 
 
 <p align="center">
@@ -44,11 +44,9 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 - Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX  
 - Enjoys Learning new technologies and solving real-world problems
 - 🌱 Currently learning: Advanced Full-Stack & Cloud
-- 💼 Working as a Senior Web Instructor at Programming Hero
-- 📧 Reach me at: farukx1122@gmail.com
-- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
-- 💻 Main languages: JavaScript, C, C++, Python
-- 🚀 Open to collaborating on frontend projects and MERN stack applications
+- 💼 I'm working as a Freelance Frontend web developer.
+- 💻 Main languages:Java, JavaScript, C, C++, Python
+
 
 
 
@@ -57,7 +55,18 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 - 🌙 I love exploring new programming tools and frameworks
 - 🌱 Currently Learning: Advanced Full-Stack & Cloud
 - 🎧 Music + Coding  My perfect workflow
-- 📚 In my free time, I read tech articles and contribute to open-source
+- 🚀 Open to collaborating on frontend projects and MERN stack applications
+
+
+
+
+- 📧 Reach me at: farukx1122@gmail.com
+- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
+
+
+
+
+
 
 ## Skills 🛠️
 

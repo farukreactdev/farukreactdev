@@ -157,7 +157,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 
 ## GitHub Stats 📊
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=black-ice&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
 
 
 

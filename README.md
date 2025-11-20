@@ -9,22 +9,6 @@
 
 
 
-<!-- ======================= -->
-<!--  GIF YOU PROVIDED       -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="600" />
-</p>
-
-
-<!-- ======================= -->
-<!--  GIF YOU PROVIDED       -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://i.ibb.co.com/4Q9mgFg/faruk.gif" width="600" />
-</p>
-
-
 
 
 

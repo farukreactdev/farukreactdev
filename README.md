@@ -47,13 +47,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 
 
-## Get in Touch <a name="get-in-touch"></a>
-
-- 📧 Reach me at: farukx1122@gmail.com
-- 🌐 Portfolio: [https://ismailjosim.netlify.app](https://glowing-mermaid-67bfa9.netlify.app/)
-
-----
-## <img src="/mnt/data/8ded9df4-521d-4cbb-afa3-4210efb97e51.png" width="30" /> Get in Touch
+## Get in Touch <a name="get-in-touch"></a> 
 
 <p align="center">
 
@@ -75,19 +69,6 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 
 </p>
 
-<p align="center">
-  📧 <b>Email:</b> farukx1122@gmail.com <br>
-  🌐 <b>Portfolio:</b> <a href="https://glowing-mermaid-67bfa9.netlify.app/">https://glowing-mermaid-67bfa9.netlify.app/</a>
-</p>
-
-
-
-
-
-
-
-
----------
 
 ## Skills 🛠️
 

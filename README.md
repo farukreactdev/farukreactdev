@@ -138,7 +138,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,postman,vite,npm,yarn" />
 </p>
 
----
+
 
 ## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faruk-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faruk)
@@ -148,7 +148,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 [![Instagram](https://img.shields.io/badge/Instagram-Faruk-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
 [![X](https://img.shields.io/badge/X-Faruk-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
 
----
+
 
 ## GitHub Stats 📊
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true)
@@ -160,7 +160,7 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg) 
 
 
----
+
 
 <!-- ======================= -->
 <!-- DARK/LIGHT MODE EXTRA  -->

@@ -162,6 +162,10 @@ Passionate about building Frontend & MERN Full Stack Developer, focused on creat
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=radical&border_radius=12&background=61DAFB) 
 
+## GitHub Streak 🔥
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=black-ice&border_radius=12)
+
+
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/FarukReactDev/FarukReactDev/blob/output/github-contribution-grid-snake-dark.svg) 
 

@@ -34,7 +34,7 @@ Passionate About Building Frontend & MERN Full Stack Developer, Focused on creat
 
 - 📚Focused on React.js, Node.js, Express.js & MongoDB, and responsive UI/UX
 - 💼Enjoys Learning new technologies and solving real-world problems
-- 💻Main languages: Java, JavaScript, C, C++, Python
+- 💻Main languages: Java, JavaScript
 
 ## Fun Facts <a name="fun-facts"></a>
 

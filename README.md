@@ -23,7 +23,9 @@
 </h1>
 
 <p>
-Frontend & MERN Full Stack Developer | Passionate About Building Fast, Scalable & Modern Web Applications (React • Next.js • Node.js • MongoDB)
+I’m a developer who truly enjoys turning ideas into real, working products. Whether it's designing a smooth interface or building a powerful backend, I love using React, Node.js, Express, and MongoDB to bring projects to life.
+Learning new tech, improving my skills, and solving practical problems keep me motivated every day.
+I primarily code in Java and JavaScript, and I’m always excited to work on something challenging and meaningful.
  </p>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi,+I'm+Faruk+Hossain+👋;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Modern+Solutions!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Faruk+Hossain+%F0%9F%91%8B;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Turning+Ideas+Into+Modern+Solutions!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,7 +38,7 @@ I am a passionate **Frontend & MERN Stack Developer** dedicated to building fast
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarukReactDev&theme=black-ice&border_radius=12" width="48%" />
+  
 </p>
 
 ---

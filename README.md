@@ -39,7 +39,7 @@ I am a passionate **Frontend & MERN Stack Developer** dedicated to building fast
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarukReactDev&show_icons=true&theme=radical&count_private=true" width="480" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarukReactDev&theme=radical" width="100%" />
 </p>
 
 ---
